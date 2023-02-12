@@ -1,4 +1,7 @@
 # Superstore_sales
+
+In this assingment I have used some powerful Excel techniques used to understand and manipulate data.
+
 You are a sales manager at Superstore Sales- one of Canada’s largest retail stores. You need to send a report to your manager containing a summary of sales for the Corporate customer segment.
 The dataset superstore_sales.xlsx is provided below. Most of the data headers are self-explanatory. However, for clarity, following are the meanings of a few data headers:
 
